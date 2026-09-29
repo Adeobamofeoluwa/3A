@@ -1,0 +1,9 @@
+com.furnitureworkshop.admin.app-core-1.1.0-0 /home/appuser/.gradle/caches/transforms-3/294e9a292d0bb413983a2f73c2b8162d/transformed/core-1.1.0/res
+com.furnitureworkshop.admin.app-webkit-1.11.0-1 /home/appuser/.gradle/caches/transforms-3/4ae8a7a7bd32b989d048ddb4d70bd7f2/transformed/webkit-1.11.0/res
+com.furnitureworkshop.admin.app-pngs-2 /tmp/cc-agent/70640455/project/android/app/build/generated/res/pngs/debug
+com.furnitureworkshop.admin.app-resValues-3 /tmp/cc-agent/70640455/project/android/app/build/generated/res/resValues/debug
+com.furnitureworkshop.admin.app-packageDebugResources-4 /tmp/cc-agent/70640455/project/android/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.furnitureworkshop.admin.app-packageDebugResources-5 /tmp/cc-agent/70640455/project/android/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.furnitureworkshop.admin.app-merged_res-6 /tmp/cc-agent/70640455/project/android/app/build/intermediates/merged_res/debug
+com.furnitureworkshop.admin.app-debug-7 /tmp/cc-agent/70640455/project/android/app/src/debug/res
+com.furnitureworkshop.admin.app-main-8 /tmp/cc-agent/70640455/project/android/app/src/main/res

@@ -1,0 +1,57 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.furnitureworkshop.admin"
+4    android:versionCode="2"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:5:5-67
+11-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:6:5-79
+12-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:8:5-24:19
+15        android:allowBackup="true"
+15-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.1.0] /home/appuser/.gradle/caches/transforms-3/294e9a292d0bb413983a2f73c2b8162d/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:extractNativeLibs="false"
+19        android:icon="@mipmap/ic_launcher"
+19-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:10:9-43
+20        android:label="Workshop Admin"
+20-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:11:9-39
+21        android:supportsRtl="true"
+21-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:12:9-35
+22        android:theme="@style/AppTheme"
+22-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:14:9-40
+23        android:usesCleartextTraffic="false" >
+23-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:13:9-45
+24        <activity
+24-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:15:9-23:20
+25            android:name="com.furnitureworkshop.admin.MainActivity"
+25-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:16:13-41
+26            android:exported="true"
+26-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:17:13-36
+27            android:screenOrientation="portrait" >
+27-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:18:13-49
+28            <intent-filter>
+28-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:19:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:20:17-69
+29-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:21:17-77
+31-->/tmp/cc-agent/70640455/project/android/app/src/main/AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>

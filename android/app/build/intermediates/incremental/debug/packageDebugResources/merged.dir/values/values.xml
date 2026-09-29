@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workshop Admin</string>
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">#1a1a1a</item>
+        <item name="android:colorPrimaryDark">#0d0d0d</item>
+        <item name="android:statusBarColor">#1a1a1a</item>
+    </style>
+</resources>
